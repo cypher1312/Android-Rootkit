@@ -9,7 +9,7 @@
 #include <linux/compat.h>
 
 
-#define AUTHOR "Hitesh Dharmdasani <hdharmda@gmu.edu>"
+
 #define DESCRIPTION 	"This rookit is developed to intercept the following calls\n \\
 						 SYS_WRITE, SYS_READ ,SYS_CREAT ,SYS_MKDIR ,SYS_RMDIR ,SYS_KILL ,SYS_OPEN ,SYS_CLOSE ,\n \\
 						 SYS_GETDENT ,SYS_UNLINK, SYS_KILL \n \\
